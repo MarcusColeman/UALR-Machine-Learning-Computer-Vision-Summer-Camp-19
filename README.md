@@ -1,6 +1,4 @@
 # UALR-Machine-Learning-Computer-Vision-Summer-Camp-19
-Resources/Materials from UALR ML and CV Summer Camp
-
 
 #Description
 
